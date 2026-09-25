@@ -23,7 +23,7 @@ repository : "kashishshah2/shiny-waddle-.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "!IMG_5407.jpeg"
+  avatar           : "IMG_5407.jpeg" # filename of avatar image placed in /images/ for author profile
   name             : "Kashish"
   pronouns         : # example: "she/her"  
   bio              : "Hi, I'm Kashish a second year psychology (cognitive neuroscience) student curious about the complexities of the brain. My current goal is to become a registered clinical psychologist and specialise in working with children"
